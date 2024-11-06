@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Flatgame/Scenes/Flatgame.unity
+    guid: ffb16dd90b6ea704ead7bf4d534b06a3
+  - enabled: 0
+    path: Assets/Monster Kitchen Pinball/Scenes/Monster Kitchen Pinball Scene.unity
+    guid: 5decf1d3c2c956e4592acb3d11855530
+  - enabled: 0
+    path: Assets/Sokoban Starter/Sokoban.unity
+    guid: e8eb16d62200eca4b9790429ebff0372
+  - enabled: 1
+    path: Assets/Ecosystem/Ecosystem.unity
+    guid: ecbdf478d6395ee40a0e40ec870f8829
+  m_configObjects: {}
